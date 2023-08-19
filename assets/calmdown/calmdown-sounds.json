@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "name": "Guitar",
+      "sound_url": "monoman_beautiful.mp4",
+      "image_url": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/calmdown/images/guitar_play.png",
+      "isPlaying": false
+    },
+    {
+      "id": 2,
+      "name": "Japanese night cafe vibes",
+      "sound_url": "https://himawan.id/app/calmdown/japanese_night_cafe_vibes.mp4",
+      "image_url": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/calmdown/images/canary.mp3",
+      "isPlaying": false
+    }
+  ]
