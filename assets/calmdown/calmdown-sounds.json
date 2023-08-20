@@ -1,4 +1,5 @@
-[
+{
+  "sounds": [
     {
       "id": 1,
       "name": "Guitar",
@@ -14,3 +15,4 @@
       "isPlaying": false
     }
   ]
+}
