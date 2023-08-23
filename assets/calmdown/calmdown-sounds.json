@@ -2,16 +2,82 @@
   "sounds": [
     {
       "id": 1,
-      "name": "Guitar",
-      "sound_url": "monoman_beautiful.mp4",
-      "image_url": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/calmdown/images/guitar_play.png",
+      "name": "Just Relax",
+      "sound_url": "https://himawan.id/app/calmdown/just-relax-11157.mp3",
+      "image_url": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/calmdown/images/just_relax.jpeg",
+      "duration": "02:40",
       "isPlaying": false
     },
     {
       "id": 2,
-      "name": "Japanese night cafe vibes",
-      "sound_url": "https://himawan.id/app/calmdown/japanese_night_cafe_vibes.mp4",
-      "image_url": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/calmdown/images/canary.mp3",
+      "name": "Lofi Study",
+      "sound_url": "https://himawan.id/app/calmdown/lofi-study-112191.mp3",
+      "image_url": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/calmdown/images/lofi_study.jpeg",
+      "duration": "02:27",
+      "isPlaying": false
+    },
+    {
+      "id": 3,
+      "name": "Piano Moment",
+      "sound_url": "https://himawan.id/app/calmdown/piano-moment-9835.mp3",
+      "image_url": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/calmdown/images/piano_moment.jpeg",
+      "duration": "04:33",
+      "isPlaying": false
+    },
+    {
+      "id": 4,
+      "name": "Please Calm My Mind",
+      "sound_url": "https://himawan.id/app/calmdown/please-calm-my-mind-125566.mp3",
+      "image_url": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/calmdown/images/calm_my_mind.jpeg",
+      "duration": "02:55",
+      "isPlaying": false
+    },
+    {
+      "id": 5,
+      "name": "Relaxing",
+      "sound_url": "https://himawan.id/app/calmdown/relaxing-145038.mp3",
+      "image_url": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/calmdown/images/relaxing.jpeg",
+      "duration": "01:12",
+      "isPlaying": false
+    },
+    {
+      "id": 6,
+      "name": "Reflected Light",
+      "sound_url": "https://himawan.id/app/calmdown/reflected-light-147979.mp3",
+      "image_url": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/calmdown/images/reflected_light.jpeg",
+      "duration": "3:45",
+      "isPlaying": false
+    },
+    {
+      "id": 7,
+      "name": "The Cradle of Your Soul",
+      "sound_url": "https://himawan.id/app/calmdown/the-cradle-of-your-soul-15700.mp3",
+      "image_url": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/calmdown/images/hammock.jpeg",
+      "duration": "02:58",
+      "isPlaying": false
+    },
+    {
+      "id": 8,
+      "name": "Meditative Rain",
+      "sound_url": "https://himawan.id/app/calmdown/meditative-rain-114484.mp3",
+      "image_url": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/calmdown/images/meditative_rain.jpeg",
+      "duration": "09:00",
+      "isPlaying": false
+    },
+    {
+      "id": 9,
+      "name": "A Small Miracle",
+      "sound_url": "https://himawan.id/app/calmdown/a-small-miracle-132333.mp3",
+      "image_url": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/calmdown/images/small_miracle.jpeg",
+      "duration": "01:17",
+      "isPlaying": false
+    },
+    {
+      "id": 10,
+      "name": "Summer Walk",
+      "sound_url": "https://himawan.id/app/calmdown/summer-walk-152722.mp3",
+      "image_url": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/calmdown/images/summer_walk.jpeg",
+      "duration": "03:18",
       "isPlaying": false
     }
   ]
