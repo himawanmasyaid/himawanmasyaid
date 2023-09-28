@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "name": "",
-    "image_url": "",
-    "url": ""
+    "name": "Songs Bird",
+    "image_url": "bird_song.jpeg",
+    "url": "songsbird.json"
   },
   {
     "id": 2,
