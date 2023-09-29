@@ -11,13 +11,24 @@
       "is_playing": false
     },
     {
-      "name": "",
+      "name": "Baltimore Oriole",
       "image_url": "",
       "sound_url": "",
       "category": {
-        "name": "",
-        "image_url": "",
-        "url": ""
+        "name": "Songs Bird",
+        "image_url": "bird_song.jpeg",
+        "url": "songsbird.json"
+      },
+      "is_playing": false
+    },
+    {
+      "name": "Barred Antshrike",
+      "image_url": "",
+      "sound_url": "",
+      "category": {
+        "name": "Songs Bird",
+        "image_url": "bird_song.jpeg",
+        "url": "songsbird.json"
       },
       "is_playing": false
     }

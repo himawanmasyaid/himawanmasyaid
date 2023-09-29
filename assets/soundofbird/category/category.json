@@ -1,12 +1,27 @@
 [
   {
-    "name": "Songs Bird",
+    "name": "Songbirds",
     "image_url": "bird_song.jpeg",
     "url": "songsbird.json"
   },
   {
-    "name": "",
-    "image_url": "",
-    "url": ""
+    "name": "Gamebirds",
+    "image_url": "gamebirds.jpeg",
+    "url": "gamebirds.json"
+  },
+  {
+    "name": "Birds of Prey",
+    "image_url": "birds_of_prey.jpeg",
+    "url": "birds_of_prey.json"
+  },
+  {
+    "name": "Seabirds",
+    "image_url": "seabirds.jpeg",
+    "url": "seabirds.json"
+  },
+  {
+    "name": "Shorebirds",
+    "image_url": "shorebirds.jpeg",
+    "url": "shorebirds.json"
   }
 ]
