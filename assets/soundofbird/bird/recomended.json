@@ -1,0 +1,112 @@
+[
+    {
+      "name": "Baltimore Oriole",
+      "image_url": "baltimore.jpeg",
+      "sound_url": "baltimore.mp3",
+      "category": {
+        "name": "Songs Bird",
+        "image_url": "bird_song.jpeg",
+        "url": "songsbird.json"
+      },
+      "is_playing": false
+    },
+    {
+      "name": "Blackburnian Warbler",
+      "image_url": "blackburnian_warbler.jpeg",
+      "sound_url": "blackburnian_warbler.mp3",
+      "category": {
+        "name": "Songs Bird",
+        "image_url": "bird_song.jpeg",
+        "url": "songsbird.json"
+      },
+      "is_playing": false
+    },
+    {
+      "name": "Blue Jay",
+      "image_url": "bluejay.jpeg",
+      "sound_url": "bluejay.mp3",
+      "category": {
+        "name": "Songs Bird",
+        "image_url": "bird_song.jpeg",
+        "url": "songsbird.json"
+      },
+      "is_playing": false
+    },
+    {
+      "name": "Cardinal",
+      "image_url": "cardinal.jpeg",
+      "sound_url": "cardinal.mp3",
+      "category": {
+        "name": "Songs Bird",
+        "image_url": "bird_song.jpeg",
+        "url": "songsbird.json"
+      },
+      "is_playing": false
+    },
+    {
+      "name": "Humming Bird",
+      "image_url": "hummingbird.jpeg",
+      "sound_url": "hummingbird.mp3",
+      "category": {
+        "name": "Songs Bird",
+        "image_url": "bird_song.jpeg",
+        "url": "songsbird.json"
+      },
+      "is_playing": false
+    },
+    {
+      "name": "Laughing Kookaburra",
+      "image_url": "laughingkookaburra.jpeg",
+      "sound_url": "laughingkookaburra.mp3",
+      "category": {
+        "name": "Songs Bird",
+        "image_url": "bird_song.jpeg",
+        "url": "songsbird.json"
+      },
+      "is_playing": false
+    },
+    {
+      "name": "Nightingale",
+      "image_url": "nightingale.jpeg",
+      "sound_url": "nightingale.mp3",
+      "category": {
+        "name": "Songs Bird",
+        "image_url": "bird_song.jpeg",
+        "url": "songsbird.json"
+      },
+      "is_playing": false
+    },
+    {
+      "name": "Oriole Backed Oriole",
+      "image_url": "olive_backed_oriole.jpeg",
+      "sound_url": "olive_backed_oriole.mp3",
+      "category": {
+        "name": "Songs Bird",
+        "image_url": "bird_song.jpeg",
+        "url": "songsbird.json"
+      },
+      "is_playing": false
+    },
+    {
+      "name": "Parrot",
+      "image_url": "parrot.jpeg",
+      "sound_url": "parrot.mp3",
+      "category": {
+        "name": "Songs Bird",
+        "image_url": "bird_song.jpeg",
+        "url": "songsbird.json"
+      },
+      "is_playing": false
+    },
+    {
+      "name": "Toucan",
+      "image_url": "toucan.jpeg",
+      "sound_url": "toucan.mp3",
+      "category": {
+        "name": "Songs Bird",
+        "image_url": "bird_song.jpeg",
+        "url": "songsbird.json"
+      },
+      "is_playing": false
+    }
+  ]
