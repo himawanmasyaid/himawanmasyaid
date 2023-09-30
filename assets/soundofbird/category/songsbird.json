@@ -57,7 +57,7 @@
   {
     "name": "Bulbul",
     "image_url": "bulbul.jpeg",
-    "sound_url": "bulbul.mp3",
+    "sound_url": "bulbul.wav",
     "category": {
       "name": "Songs Bird",
       "image_url": "bird_song.jpeg",
