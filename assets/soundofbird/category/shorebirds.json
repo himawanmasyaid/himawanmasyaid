@@ -1,3 +1,46 @@
 [
-    
+    {
+        "name": "Sandhill Crane",
+        "image_url": "sandhill_crane.jpeg",
+        "sound_url": "sandhill_crane.mp3",
+        "category": {
+          "name": "Shore birds",
+          "image_url": "shorebirds.jpeg",
+          "url": "shorebirds.json"
+        },
+        "is_playing": false
+      },
+      {
+        "name": "Sandpiper",
+        "image_url": "sandpiper.jpeg",
+        "sound_url": "sandpiper.mp3",
+        "category": {
+          "name": "Shore birds",
+          "image_url": "shorebirds.jpeg",
+          "url": "shorebirds.json"
+        },
+        "is_playing": false
+      },
+      {
+        "name": "Sandwich Tern",
+        "image_url": "sandwich_tern.jpeg",
+        "sound_url": "sandwich_tern.mp3",
+        "category": {
+          "name": "Shore birds",
+          "image_url": "shorebirds.jpeg",
+          "url": "shorebirds.json"
+        },
+        "is_playing": false
+      },
+      {
+        "name": "Plover",
+        "image_url": "plover.jpeg",
+        "sound_url": "plover.mp3",
+        "category": {
+          "name": "Shore birds",
+          "image_url": "shorebirds.jpeg",
+          "url": "shorebirds.json"
+        },
+        "is_playing": false
+      }
 ]
