@@ -1,11 +1,11 @@
 [
   {
-    "name": "Songbirds",
+    "name": "Song birds",
     "image_url": "bird_song.jpeg",
     "url": "songsbird.json"
   },
   {
-    "name": "Gamebirds",
+    "name": "Game birds",
     "image_url": "gamebirds.jpeg",
     "url": "gamebirds.json"
   },
@@ -15,12 +15,12 @@
     "url": "birds_of_prey.json"
   },
   {
-    "name": "Seabirds",
+    "name": "Sea birds",
     "image_url": "seabirds.jpeg",
     "url": "seabirds.json"
   },
   {
-    "name": "Shorebirds",
+    "name": "Shore birds",
     "image_url": "shorebirds.jpeg",
     "url": "shorebirds.json"
   }

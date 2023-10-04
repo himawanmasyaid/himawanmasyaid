@@ -1,3 +1,57 @@
 [
-    
+    {
+        "name": "Guineafowl",
+        "image_url": "guineafowl.jpeg",
+        "sound_url": "guineafowl.mp3",
+        "category": {
+          "name": "Game birds",
+          "image_url": "gamebirds.jpeg",
+          "url": "gamebirds.json"
+        },
+        "is_playing": false
+      },
+      {
+        "name": "Hen",
+        "image_url": "hen.jpeg",
+        "sound_url": "hen.wav",
+        "category": {
+          "name": "Game birds",
+          "image_url": "gamebirds.jpeg",
+          "url": "gamebirds.json"
+        },
+        "is_playing": false
+      },
+      {
+        "name": "Quails",
+        "image_url": "quails.jpeg",
+        "sound_url": "quails.mp3",
+        "category": {
+          "name": "Game birds",
+          "image_url": "gamebirds.jpeg",
+          "url": "gamebirds.json"
+        },
+        "is_playing": false
+      },
+      {
+        "name": "Rooster",
+        "image_url": "rooster.jpeg",
+        "sound_url": "rooster.mp3",
+        "category": {
+          "name": "Game birds",
+          "image_url": "gamebirds.jpeg",
+          "url": "gamebirds.json"
+        },
+        "is_playing": false
+      },
+      {
+        "name": "Turkey",
+        "image_url": "turkey.jpeg",
+        "sound_url": "turkey.mp3",
+        "category": {
+          "name": "Game birds",
+          "image_url": "birds_of_prey.jpeg",
+          "url": "birds_of_prey.json"
+        },
+        "is_playing": false
+      }
 ]
