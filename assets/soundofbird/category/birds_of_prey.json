@@ -1,3 +1,79 @@
 [
-    
+    {
+        "name": "Buzzards",
+        "image_url": "buzzards.jpeg",
+        "sound_url": "buzzards.mp3",
+        "category": {
+          "name": "Birds of Prey",
+          "image_url": "birds_of_prey.jpeg",
+          "url": "birds_of_prey.json"
+        },
+        "is_playing": false
+      },
+      {
+        "name": "Eagle",
+        "image_url": "agle.jpeg",
+        "sound_url": "eagle.mp3",
+        "category": {
+          "name": "Birds of Prey",
+          "image_url": "birds_of_prey.jpeg",
+          "url": "birds_of_prey.json"
+        },
+        "is_playing": false
+      },
+      {
+        "name": "Falcon",
+        "image_url": "birds_of_prey.jpeg",
+        "sound_url": "falcon.mp3",
+        "category": {
+          "name": "Birds of Prey",
+          "image_url": "birds_of_prey.jpeg",
+          "url": "birds_of_prey.json"
+        },
+        "is_playing": false
+      },
+      {
+        "name": "Hawk",
+        "image_url": "hawk.jpeg",
+        "sound_url": "hawk.mp3",
+        "category": {
+          "name": "Birds of Prey",
+          "image_url": "birds_of_prey.jpeg",
+          "url": "birds_of_prey.json"
+        },
+        "is_playing": false
+      },
+      {
+        "name": "Kites",
+        "image_url": "kites.jpeg",
+        "sound_url": "kites.mp3",
+        "category": {
+          "name": "Birds of Prey",
+          "image_url": "birds_of_prey.jpeg",
+          "url": "birds_of_prey.json"
+        },
+        "is_playing": false
+      },
+      {
+        "name": "Osprey",
+        "image_url": "osprey.jpeg",
+        "sound_url": "osprey.wav",
+        "category": {
+          "name": "Birds of Prey",
+          "image_url": "birds_of_prey.jpeg",
+          "url": "birds_of_prey.json"
+        },
+        "is_playing": false
+      },
+      {
+        "name": "Vultures",
+        "image_url": "vultures.jpeg",
+        "sound_url": "vultures.wav",
+        "category": {
+          "name": "Birds of Prey",
+          "image_url": "birds_of_prey.jpeg",
+          "url": "birds_of_prey.json"
+        },
+        "is_playing": false
+      }
 ]
