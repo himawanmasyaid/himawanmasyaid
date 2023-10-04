@@ -50,7 +50,7 @@
         "category": {
           "name": "Game birds",
           "image_url": "birds_of_prey.jpeg",
-          "url": "birds_of_prey.json"
+          "url": "gamebirds.json"
         },
         "is_playing": false
       }

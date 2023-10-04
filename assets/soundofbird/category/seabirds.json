@@ -1,3 +1,112 @@
 [
-    
+    {
+        "name": "Anhinga",
+        "image_url": "anhinga.jpeg",
+        "sound_url": "anhinga.mp3",
+        "category": {
+          "name": "Sea birds",
+          "image_url": "seabirds.jpeg",
+          "url": "seabirds.json"
+        },
+        "is_playing": false
+      },
+      {
+        "name": "Cormorant",
+        "image_url": "cormorant.jpeg",
+        "sound_url": "cormorant.mp3",
+        "category": {
+          "name": "Sea birds",
+          "image_url": "seabirds.jpeg",
+          "url": "seabirds.json"
+        },
+        "is_playing": false
+      },
+      {
+        "name": "Flamingo",
+        "image_url": "flamingo.jpeg",
+        "sound_url": "flamingo.mp3",
+        "category": {
+          "name": "Sea birds",
+          "image_url": "seabirds.jpeg",
+          "url": "seabirds.json"
+        },
+        "is_playing": false
+      },
+      {
+        "name": "Pelican",
+        "image_url": "pelican.jpeg",
+        "sound_url": "pelican.mp3",
+        "category": {
+          "name": "Sea birds",
+          "image_url": "seabirds.jpeg",
+          "url": "seabirds.json"
+        },
+        "is_playing": false
+      },
+      {
+        "name": "Limpkin",
+        "image_url": "limpkin.jpeg",
+        "sound_url": "limpkin.mp3",
+        "category": {
+          "name": "Sea birds",
+          "image_url": "seabirds.jpeg",
+          "url": "seabirds.json"
+        },
+        "is_playing": false
+      },
+      {
+        "name": "Little Tern",
+        "image_url": "littletern.jpeg",
+        "sound_url": "littletern.mp3",
+        "category": {
+          "name": "Sea birds",
+          "image_url": "seabirds.jpeg",
+          "url": "seabirds.json"
+        },
+        "is_playing": false
+      },
+      {
+        "name": "Little Wattle Bird",
+        "image_url": "littlewattlebird.jpeg",
+        "sound_url": "littlewattlebird.mp3",
+        "category": {
+          "name": "Sea birds",
+          "image_url": "seabirds.jpeg",
+          "url": "seabirds.json"
+        },
+        "is_playing": false
+      },
+      {
+        "name": "Penguin",
+        "image_url": "penguin.jpeg",
+        "sound_url": "penguin.mp3",
+        "category": {
+          "name": "Sea birds",
+          "image_url": "seabirds.jpeg",
+          "url": "seabirds.json"
+        },
+        "is_playing": false
+      },
+      {
+        "name": "Secretary Bird",
+        "image_url": "secretary_bird.jpeg",
+        "sound_url": "secretary_bird.wav",
+        "category": {
+          "name": "Sea birds",
+          "image_url": "seabirds.jpeg",
+          "url": "seabirds.json"
+        },
+        "is_playing": false
+      },
+      {
+        "name": "Woodstork",
+        "image_url": "woodstork.jpeg",
+        "sound_url": "woodstork.mp3",
+        "category": {
+          "name": "Sea birds",
+          "image_url": "seabirds.jpeg",
+          "url": "seabirds.json"
+        },
+        "is_playing": false
+      }
 ]
