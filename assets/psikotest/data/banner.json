@@ -1,19 +1,20 @@
 [
+
     {
-        "imageUrlIn": "definisi_id.png",
-        "imageUrlEn": "definisi_id.png",
+        "imageUrlIn": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/psikotest/images/definisi_id.png",
+        "imageUrlEn": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/psikotest/images/definisi_id.png",
         "directionType": 1
 
     },
     {
-        "imageUrlIn": "penggunaan_id.png",
-        "imageUrlEn": "penggunaan_id.png",
+        "imageUrlIn": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/psikotest/images/penggunaan_id.png",
+        "imageUrlEn": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/psikotest/images/penggunaan_id.png",
         "directionType": 0
 
     },
     {
-        "imageUrlIn": "cara_kerja_in.png",
-        "imageUrlEn": "penggunaan_id.png",
+        "imageUrlIn": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/psikotest/images/cara_kerja_in.png",
+        "imageUrlEn": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/psikotest/images/penggunaan_id.png",
         "directionType": 0
 
     }
