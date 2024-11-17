@@ -1,0 +1,21 @@
+[
+    {
+        "imageUrlIn": "definisi_id.png",
+        "imageUrlEn": "definisi_id.png",
+        "directionType": 1
+
+    },
+    {
+        "imageUrlIn": "penggunaan_id.png",
+        "imageUrlEn": "penggunaan_id.png",
+        "directionType": 0
+
+    },
+    {
+        "imageUrlIn": "cara_kerja_in.png",
+        "imageUrlEn": "penggunaan_id.png",
+        "directionType": 0
+
+    }
+
+]
