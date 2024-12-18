@@ -1,20 +1,20 @@
 [
 
     {
-        "imageUrlIn": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/psikotest/images/definisi_id.png",
-        "imageUrlEn": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/psikotest/images/definisi_id.png",
+        "imageUrlIn": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/psikotest/images/headline_1.png",
+        "imageUrlEn": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/psikotest/images/headline_1_en.png",
         "directionType": 1
 
     },
     {
-        "imageUrlIn": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/psikotest/images/penggunaan_id.png",
-        "imageUrlEn": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/psikotest/images/penggunaan_id.png",
+        "imageUrlIn": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/psikotest/images/headline_2.png",
+        "imageUrlEn": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/psikotest/images/headline_2_en.png",
         "directionType": 0
 
     },
     {
-        "imageUrlIn": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/psikotest/images/cara_kerja_in.png",
-        "imageUrlEn": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/psikotest/images/cara_kerja_in.png",
+        "imageUrlIn": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/psikotest/images/headline_3.png",
+        "imageUrlEn": "https://raw.githubusercontent.com/himawanmasyaid/himawanmasyaid/master/assets/psikotest/images/headline_3_en.png",
         "directionType": 0
 
     }
